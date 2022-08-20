@@ -1,0 +1,17 @@
+/target/
+!.mvm/.wrapper/mavem-wrapper.zar
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springbean
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
